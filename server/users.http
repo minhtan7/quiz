@@ -1,0 +1,31 @@
+@baseUrl=http://localhost:5000/api
+@resourceName=users
+
+# @name getAllUsers
+GET {{baseUrl}}/{{resourceName}}?email=tan.vopm@gmail.com
+
+###
+# @name create
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{   
+    "name": "tan",
+    "email": "tan.vopm@gmail.com"
+}
+
+###
+# @name create
+PATCH {{baseUrl}}/{{resourceName}}/5
+Content-Type: application/json
+
+{   
+    "name": "vo",
+    "email": "tan.vopm@gmail.com",
+    "play":[
+        {
+          "score": 6,
+          "playAt": "20-7-2022"
+        }
+    ]
+}

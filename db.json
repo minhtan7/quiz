@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "tan",
+      "email": "tan@gmail.com",
+      "play": [
+        {
+          "score": 5,
+          "playAt": "20-7-2022"
+        },
+        {
+          "score": 5,
+          "playAt": "21-7-2022"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "tan",
+      "email": "tan.vopm@gmail.com",
+      "play": [
+        {
+          "score": 5,
+          "playAt": "20-7-2022"
+        },
+        {
+          "score": 5,
+          "playAt": "21-7-2022"
+        }
+      ]
+    },
+    {
+      "name": "tan",
+      "email": "tan.vop@gmail.com",
+      "createdAt": 1658301261046,
+      "updatedAt": 1658301261046,
+      "id": 2
+    },
+    {
+      "name": "vo",
+      "email": "tan.vom@gmail.com",
+      "createdAt": 1658301325601,
+      "updatedAt": 1658303083563,
+      "id": 3
+    },
+    {
+      "name": "tan",
+      "email": "tan.vpm@gmail.com",
+      "createdAt": 1658301350927,
+      "updatedAt": 1658301350927,
+      "id": 4
+    },
+    {
+      "name": "vo",
+      "email": "tan.vo@gmail.com",
+      "createdAt": 1658301376349,
+      "updatedAt": 1658309245779,
+      "id": 5,
+      "play": [
+        {
+          "score": 6,
+          "playAt": "20-7-2022"
+        }
+      ]
+    },
+    {
+      "name": "tan",
+      "email": "tan.pm@gmail.com",
+      "createdAt": 1658301404702,
+      "updatedAt": 1658301404702,
+      "id": 6
+    },
+    {
+      "name": "tan",
+      "email": "tan.vopm@gmail.com",
+      "id": 7
+    },
+    {
+      "email": "ngan@gmail.com",
+      "name": "ngan",
+      "createdAt": 1658334755037,
+      "updatedAt": 1658334755037,
+      "id": 8
+    },
+    {
+      "email": "nga@gmail.com",
+      "name": "nga",
+      "createdAt": 1658335021230,
+      "updatedAt": 1658335021230,
+      "id": 9
+    },
+    {
+      "email": "t@gmail.com",
+      "name": "fdf",
+      "createdAt": 1658335144085,
+      "updatedAt": 1658335144085,
+      "id": 10
+    },
+    {
+      "email": "fdlksfj@gams.com",
+      "name": "fdfasd",
+      "createdAt": 1658335181032,
+      "updatedAt": 1658335181032,
+      "id": 11
+    },
+    {
+      "email": "tannnn@gmail.com",
+      "name": "dlfkjd",
+      "createdAt": 1658335233142,
+      "updatedAt": 1658335233142,
+      "id": 12
+    }
+  ]
+}
